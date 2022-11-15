@@ -26,7 +26,7 @@ This repository is 🔋 battery packed with:
 
 ## Getting Started
 
-Product of [TDD-TEAM]([https://github.com/TDD-Team)
+Product of [https://github.com/TDD-Team]([https://github.com/TDD-Team)
 
 ### 1. Install dependencies
 
