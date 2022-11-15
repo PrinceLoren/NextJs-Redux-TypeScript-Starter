@@ -26,8 +26,6 @@ This repository is 🔋 battery packed with:
 
 ## Getting Started
 
-Product of [https://github.com/TDD-Team]([https://github.com/TDD-Team)
-
 ### 1. Install dependencies
 
 It is encouraged to use **yarn** so the husky hooks can work properly.
