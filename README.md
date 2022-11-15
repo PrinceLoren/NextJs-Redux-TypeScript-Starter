@@ -10,6 +10,8 @@ This repository is 🔋 battery packed with:
 - ⚡️ Next.js 13
 - ⚛️ React 18
 - ✨ TypeScript
+- ⚛️ Redux 8.0.5(next-redux-wrapper, redux-persist, redux-thunk)
+- ✨ Sass
 - 💨 Tailwind CSS 3 — Configured with CSS Variables to extend the **primary** color
 - 📈 Absolute Import and Path Alias — Import components using `@/` prefix
 - 📏 ESLint — Find and fix problems in your code, also will **auto sort** your imports
