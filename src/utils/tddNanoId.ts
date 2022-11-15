@@ -1,5 +1,5 @@
 import { nanoid } from 'nanoid';
 
-export default function ncNanoId(prefix = 'ncmaz_') {
+export default function tddNanoId(prefix = 'tdd_') {
   return prefix + nanoid() + '_';
 }
